@@ -9,8 +9,7 @@ Join Notion For Project work https://www.notion.so/SharePay-306a208a8beb805783db
 
 Backend Code ( Springboot )
 git clone https://github.com/your-username/sharepay-backend.git
-cd sharepay-backend
-mvn spring-boot:run
+
 
 Frontend Code ( Jetpack Compose )
 git clone https://github.com/your-username/sharepay-frontend.git
