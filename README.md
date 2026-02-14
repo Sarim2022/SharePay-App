@@ -14,16 +14,16 @@ Frontend Code ( Jetpack Compose )
 git clone https://github.com/your-username/sharepay-frontend.git
 
 
-Api end point working for now
-signup : http://localhost:8080/auth/api/signup
-login : http://localhost:8080/auth/api/login
+Api end point working for now<br>
+signup : http://localhost:8080/auth/api/signup<br>
+login : http://localhost:8080/auth/api/login<br>
 
-🧩 Future Improvements
-Add more api and design ui improvement \n
-✅ Add PostgreSQL Database \n
-🔐 JWT Authentication \n
-☁️ Deploy backend on cloud (Render/Railway) \n
-👤 User profile & settings \n
+🧩 Future Improvements<br>
+Add more api and design ui improvement <br>
+✅ Add PostgreSQL Database <br>
+🔐 JWT Authentication <br>
+☁️ Deploy backend on cloud (Render/Railway) <br>
+👤 User profile & settings <br>
 
 📈 Analytics & charts
 
