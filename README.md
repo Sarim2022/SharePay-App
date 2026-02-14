@@ -19,11 +19,11 @@ signup : http://localhost:8080/auth/api/signup
 login : http://localhost:8080/auth/api/login
 
 🧩 Future Improvements
-Add more api and design ui improvement 
-✅ Add PostgreSQL Database
-🔐 JWT Authentication
-☁️ Deploy backend on cloud (Render/Railway)
-👤 User profile & settings
+Add more api and design ui improvement \n
+✅ Add PostgreSQL Database \n
+🔐 JWT Authentication \n
+☁️ Deploy backend on cloud (Render/Railway) \n
+👤 User profile & settings \n
 
 📈 Analytics & charts
 
